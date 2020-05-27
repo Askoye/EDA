@@ -1,2 +1,2 @@
 # IP_Week_3
-This is a repository containing the IP work
+This is a repository containing the IP work by Ted Askoye Samuel 
