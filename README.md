@@ -1,2 +1,2 @@
-# IP_Week_3
-This is a repository containing the IP work by Ted Askoye Samuel 
+# Exploratory Data Analysis
+This is a repository containing the IP work regarding Exploratory Data Analysis by Ted Askoye Samuel 
